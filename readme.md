@@ -3,7 +3,7 @@
         <li>Nome: Matheus</li>
         <li>Idade: 17 anos</li>
         <li>Localização: NR/MG</li>
-        <li>Contato: <a href="https://wa.me/+553599477343" target="_blank"><b><strong><code>Whatsapp</code></strong></b></a></li>
+        <li>Contato: <a href="https://wa.me/5555555555555555555" target="_blank"><b><strong><code>Whatsapp</code></strong></b></a></li>
     </ul>
     <h3 align="left">Linguagens que domino</h3>
     <p align="left">
@@ -35,7 +35,7 @@
     </p>
     <hr>
     <p align="center">
-        <a href="https://github.com/Lursy"><img src="https://komarev.com/ghpvc/?username=mf256010&color=blueviolet">
+        <a href="https://github.com/Lursy"><img src="https://komarev.com/ghpvc/?username=WdsUtilidades&color=blueviolet">
             <img src="https://shields.io/github/stars/Lursy">
             <img src="https://shields.io/github/followers/Lursy?label=Follow">
         </a>
