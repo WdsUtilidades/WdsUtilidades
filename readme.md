@@ -8,5 +8,5 @@
             <img src="https://shields.io/github/stars/WdsUtilidades">
             <img src="https://shields.io/github/followers/WdsUtilidades?label=Follow">
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=WdsUtilidades&show_icons=true&locale=en" alt="WdsUtilidades" width=700 height=500/>
+        <img src="https://github-readme-stats.vercel.app/api?username=WdsUtilidades&show_icons=true&locale=en" alt="WdsUtilidades" width=1280 height=720/>
     </p>
