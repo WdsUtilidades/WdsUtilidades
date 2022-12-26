@@ -13,4 +13,4 @@
             <img src="https://shields.io/github/stars/WdsUtilidades?label=stars">
             <img src="https://shields.io/github/followers/WdsUtilidades?label=Seguidores">
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=WdsUtilidades&show_icons=true&theme=dark" width=780 height=310/>
+        <img src="https://github-readme-stats.vercel.app/api?username=WdsUtilidades&show_icons=true&theme=tokyonight" width=780 height=310/>
