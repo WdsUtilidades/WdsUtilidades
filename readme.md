@@ -11,7 +11,7 @@
     <hr>
     <p align="center">
         <a href="https://github.com/Lursy"><img src="https://komarev.com/ghpvc/?username=WdsUtilidades&color=blueviolet">
-            <img src="https://shields.io/github/stars/Lursy">
+            <img src="https://shields.io/github/stars/WdsUtilidades">
             <img src="https://shields.io/github/followers/WdsUtilidades?label=Follow">
         </a>
         <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw">
