@@ -12,12 +12,12 @@
     <p align="center">
         <a href="https://github.com/Lursy"><img src="https://komarev.com/ghpvc/?username=WdsUtilidades&color=blueviolet">
             <img src="https://shields.io/github/stars/Lursy">
-            <img src="https://shields.io/github/followers/Lursy?label=Follow">
+            <img src="https://shields.io/github/followers/WdsUtilidades?label=Follow">
         </a>
         <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw">
             <img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
         </a>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=lursy&show_icons=true&locale=en" alt="lursy" width=480 height=480/>
+        <img src="https://github-readme-stats.vercel.app/api?username=WdsUtilidades&show_icons=true&locale=en" alt="lursy" width=480 height=480/>
     </p>
     
