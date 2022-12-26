@@ -1,4 +1,3 @@
-<h3 align="center">Informações</h3>
     </ul>
 <h1 align="left">Linguagens</h1>
     <p align="left">
