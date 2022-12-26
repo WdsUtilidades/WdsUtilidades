@@ -5,9 +5,9 @@
     <hr>
     <p align="center">
         <a href="https://github.com/WdsUtilidades"><img src="https://komarev.com/ghpvc/?username=WdsUtilidades&color=blueviolet">
-            <img alt="GitHub followers" src="https://img.shields.io/github/followers/wdsutilidades?style=social">
             <img src="https://shields.io/github/stars/WdsUtilidades?label=stars">
             <img src="https://shields.io/github/followers/WdsUtilidades?label=Seguidores">
+            <img src="https://img.shields.io/github/followers/wdsutilidades?style=social">
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=WdsUtilidades&show_icons=true&locale=en" alt="WdsUtilidades" width=780 height=310/>
     </p>
