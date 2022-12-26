@@ -7,7 +7,6 @@
         <a href="https://github.com/WdsUtilidades"><img src="https://komarev.com/ghpvc/?username=WdsUtilidades&color=blueviolet">
             <img src="https://shields.io/github/stars/WdsUtilidades?label=stars">
             <img src="https://shields.io/github/followers/WdsUtilidades?label=Seguidores">
-            <img src="https://img.shields.io/github/watchers/followers/WdsUtilidades?label=Seguidores">
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=WdsUtilidades&show_icons=true&locale=en" alt="WdsUtilidades" width=780 height=310/>
     </p>
