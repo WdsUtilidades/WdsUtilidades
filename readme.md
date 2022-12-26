@@ -1,4 +1,4 @@
-align="center">- 🔭 Atualmente estou trabalhando na vida
+<h1 align="center">- 🔭 Atualmente estou trabalhando na vida</h1>
 - 💬 Pergunte-me sobre qualquer coisa.
 - 🧑‍💻 Ei, obrigado por me seguir...
 
