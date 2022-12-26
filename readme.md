@@ -10,7 +10,6 @@
     <hr>
     <p align="center">
         <a href="https://github.com/WdsUtilidades"><img src="https://komarev.com/ghpvc/?username=WdsUtilidades&color=blueviolet">
-            <img src="https://shields.io/github/stars/WdsUtilidades?label=stars">
             <img src="https://shields.io/github/followers/WdsUtilidades?label=Seguidores">
             <img src="https://shields.io/github/stars/WdsUtilidades?label=stars">
         <br>
