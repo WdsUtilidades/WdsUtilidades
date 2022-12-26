@@ -1,7 +1,7 @@
 <h1 align="center">### Olá, eu sou WdsUtilidades 👋</h1>
-<h1 align="center">- 🔭 Atualmente estou trabalhando na vida</h1>
-<h1 align="center">- 💬 Pergunte-me sobre qualquer coisa.</h1>
-<h1 align="center">- 🧑‍💻 Ei, obrigado por me seguir...</h1>
+<h5 align="center">- 🔭 Atualmente estou trabalhando na vida</h5>
+<h5 align="center">- 💬 Pergunte-me sobre qualquer coisa.</h5>
+<h5 align="center">- 🧑‍💻 Ei, obrigado por me seguir...</h5>
 
 
 <h1 align="center">Linguagens</h1>
