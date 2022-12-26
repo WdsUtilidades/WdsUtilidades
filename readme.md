@@ -8,6 +8,8 @@
             <img src="https://shields.io/github/stars/WdsUtilidades">
             <img src="https://shields.io/github/followers/WdsUtilidades?label=Follow">
             <img src="https://shields.io/github/following/WdsUtilidades?label=following">
+            <img alt="GitHub Gist last commit" src="https://img.shields.io/github/gist/last-commit/WdsUtilidades">
+            
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=WdsUtilidades&show_icons=true&locale=en" alt="WdsUtilidades" width=780 height=310/>
     </p>
