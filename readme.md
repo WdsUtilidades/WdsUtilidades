@@ -1,9 +1,4 @@
 <h3 align="center">Informações</h3>
-    <ul>
-        <li>Nome: Matheus</li>
-        <li>Idade: 17 anos</li>
-        <li>Localização: NR/MG</li>
-        <li>Contato: <a href="https://wa.me/5555555555555555555" target="_blank"><b><strong><code>Whatsapp</code></strong></b></a></li>
     </ul>
 <h1 align="left">Linguagens</h1>
     <p align="left">
